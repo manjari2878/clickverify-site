@@ -1,0 +1,17 @@
+title: ClickVerify Privacy Policy
+description: Privacy policy for the ClickVerify local beta
+theme: jekyll-theme-minimal
+url: https://manjari2878.github.io
+baseurl: /clickverify-site
+
+exclude:
+  - README.md
+  - CHANGELOG.md
+  - docs
+  - extension
+  - tests
+  - scripts
+  - node_modules
+  - vendor
+  - Gemfile
+  - Gemfile.lock
